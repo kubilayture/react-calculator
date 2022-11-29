@@ -9,5 +9,6 @@ useReducer hook used for state management.
 
 - Calculation history
 - Visual improvements for mobile users
+- Keyboard inputs
 
 ![image info](/public/Screenshot.png)
